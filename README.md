@@ -57,7 +57,7 @@ Random Forest
 UCI SMS Spam Collection Dataset
 Kaggle Spam Dataset
 o Kaggle Email Spam Datasets : 
-https://www.kaggle.com/datasets/uciml/sms-spam-collectiondataset
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 ⚙️ How It Works
 1. Data Preprocessing
