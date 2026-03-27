@@ -9,29 +9,35 @@ Detect spam messages automatically
 Apply NLP techniques for text processing
 Train and evaluate multiple ML models
 Provide a real-time user interface for prediction
+
 ✨ Features
 🔹 Core Features
 ✔️ Spam vs Ham classification
 ✔️ Text preprocessing (tokenization, stopword removal, stemming)
 ✔️ TF-IDF vectorization with n-grams
 ✔️ Feature engineering (text length, word count, sentence count)
+
 🔹 Machine Learning Features
 ✔️ Multiple models (Naive Bayes, Logistic Regression, Random Forest)
 ✔️ Model comparison (Accuracy & Precision)
 ✔️ Confusion Matrix visualization
 ✔️ Reduced false positives & false negatives
+
 🔹 Model Management
 ✔️ Model saving using model.pkl
 ✔️ Vectorizer saving using vectorizer.pkl
 ✔️ Fast loading without retraining
+
 🔹 Web Application Features
 ✔️ Interactive UI using Streamlit
 ✔️ Real-time spam detection
 ✔️ Instant prediction output
 ✔️ Confidence score display
+
 🔹 Visualization
 ✔️ WordCloud for spam keywords
 ✔️ Data distribution graphs
+
 🛠️ Technologies Used
 Language: Python
 Libraries:
@@ -41,13 +47,18 @@ NLTK
 Matplotlib, Seaborn
 WordCloud
 Streamlit
+
 🧠 Machine Learning Models
 Naive Bayes
 Logistic Regression
 Random Forest
+
 📊 Dataset
 UCI SMS Spam Collection Dataset
 Kaggle Spam Dataset
+o Kaggle Email Spam Datasets : 
+https://www.kaggle.com/datasets/uciml/sms-spam-collectiondataset
+
 ⚙️ How It Works
 1. Data Preprocessing
 Convert text to lowercase
@@ -68,6 +79,7 @@ Input text → preprocessing
 Convert using vectorizer.pkl
 Predict using model.pkl
 Display result
+
 🌐 Web Application (Streamlit)
 
 The application provides a simple interface where users can enter a message and get instant spam detection.
