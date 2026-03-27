@@ -70,6 +70,7 @@ It analyzes the content of messages, extracts meaningful patterns, and predicts 
 
 * UCI SMS Spam Collection Dataset
 * Kaggle Spam Dataset
+https://www.kaggle.com/datasets/uciml/sms-spam-collection-dataset
 
 ## ⚙️ How It Works
 
