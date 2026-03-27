@@ -1,4 +1,3 @@
-
 # 📧 Email Spam Classifier
 
 ## 🚀 Project Overview
@@ -108,31 +107,27 @@ The application provides a simple interface where users can enter a message and 
 
 ### ▶️ Run Locally
 
-```bash
+bash
 pip install -r requirements.txt
 streamlit run app.py
-```
 
 ## 🧪 Example
 
 **Input:**
 
-```text
+text
 Congratulations! You have won a free prize. Call now!
-```
 
 **Output:**
 
-```text
+text
 🚨 SPAM (95%)
-```
+
 ## 📈 Evaluation Metrics
 
 * Accuracy
 * Precision
 * Confusion Matrix
-
----
 
 ## 🚀 Key Achievements
 
